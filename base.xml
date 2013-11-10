@@ -267,12 +267,6 @@
                     <font>basesmall</font>
                     <alpha>210</alpha>
                 </textarea>
-                <textarea name="length">
-                    <area>400,12,500,40</area>
-                    <align>right,vcenter</align>
-                    <font>basesmall</font>
-                    <alpha>210</alpha>
-                </textarea>
                 <textarea name="year">
                     <area>674,10,450,40</area>
                     <align>right,vcenter</align>

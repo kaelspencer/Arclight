@@ -687,6 +687,16 @@
             <cutdown>yes</cutdown>
         </textarea>
 
+        <statetype name="userratingstate" from="baserating">
+            <position>45,855</position>
+        </statetype>
+
+        <textarea name="length" from="basetextarea">
+            <!-- 694 is the width of the border. -->
+            <area>35,855,670,40</area>
+            <align>right,vcenter</align>
+        </textarea>
+
         <textarea name="cast" from="description">
             <area>45,935,674,90</area>
             <multiline>yes</multiline>
@@ -1458,6 +1468,16 @@
             <font>basesmall</font>
             <align>left,top</align>
             <cutdown>yes</cutdown>
+        </textarea>
+
+        <statetype name="userratingstate" from="baserating">
+            <position>45,855</position>
+        </statetype>
+
+        <textarea name="length" from="basetextarea">
+            <!-- 694 is the width of the border. -->
+            <area>35,855,670,40</area>
+            <align>right,vcenter</align>
         </textarea>
 
         <textarea name="releasedate" from="basetextarea">
