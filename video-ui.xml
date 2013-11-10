@@ -163,7 +163,7 @@
         <shape name="infobox">
             <area>35,13,694,1033</area>
             <type>roundbox</type>
-            <fill color="#000000" alpha="180" />
+            <fill color="#000000" alpha="50" />
         </shape>
 
         <imagetype name="screenshot">
@@ -455,7 +455,7 @@
         <shape name="infobox">
             <area>35,13,694,1033</area>
             <type>roundbox</type>
-            <fill color="#000000" alpha="180" />
+            <fill color="#000000" alpha="50" />
         </shape>
 
         <imagetype name="screenshot">
@@ -633,8 +633,7 @@
         <shape name="infobox">
             <area>35,13,694,1033</area>
             <type>roundbox</type>
-            <fill color="#000000" alpha="180" />
-
+            <fill color="#000000" alpha="50" />
         </shape>
 
         <imagetype name="screenshot">
@@ -735,7 +734,7 @@
         <shape name="infobox">
             <area>35,13,694,1033</area>
             <type>roundbox</type>
-            <fill color="#000000" alpha="180" />
+            <fill color="#000000" alpha="50" />
         </shape>
 
         <imagetype name="screenshot">
@@ -920,7 +919,7 @@
         <shape name="infobox">
             <area>25,13,724,1048</area>
             <type>roundbox</type>
-            <fill color="#000000" alpha="180" />
+            <fill color="#000000" alpha="50" />
         </shape>
 
         <!-- Labels  -->
@@ -1406,7 +1405,7 @@
         <shape name="infobox">
             <area>35,13,694,1033</area>
             <type>roundbox</type>
-            <fill color="#000000" alpha="180" />
+            <fill color="#000000" alpha="50" />
         </shape>
 
         <imagetype name="screenshot">
