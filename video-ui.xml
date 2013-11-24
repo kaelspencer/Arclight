@@ -687,13 +687,9 @@
             <cutdown>yes</cutdown>
         </textarea>
 
-        <statetype name="userratingstate" from="baserating">
-            <position>45,855</position>
-        </statetype>
-
         <textarea name="length" from="basetextarea">
             <!-- 694 is the width of the border. -->
-            <area>35,855,670,40</area>
+            <area>35,886,674,60</area>
             <align>right,vcenter</align>
         </textarea>
 
@@ -1471,12 +1467,12 @@
         </textarea>
 
         <statetype name="userratingstate" from="baserating">
-            <position>45,855</position>
+            <position>545,475</position>
         </statetype>
 
         <textarea name="length" from="basetextarea">
             <!-- 694 is the width of the border. -->
-            <area>35,855,670,40</area>
+            <area>35,886,674,60</area>
             <align>right,vcenter</align>
         </textarea>
 
