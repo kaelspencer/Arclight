@@ -679,6 +679,19 @@
             <cutdown>yes</cutdown>
         </textarea>
 
+         <statetype name="watchedstate">
+            <state name="no">
+                <textarea name="uhuh" from="basetextarea">
+                    <area>45,425,674,57</area>
+                    <align>right,vcenter</align>
+                    <font>basesmalllightblue</font>
+                    <alpha>210</alpha>
+                    <value>New</value>
+                </textarea>
+            </state>
+            <state name="yes" />
+        </statetype>
+
         <textarea name="description" from="basetextarea">
             <area>45,510,674,380</area>
             <multiline>yes</multiline>
